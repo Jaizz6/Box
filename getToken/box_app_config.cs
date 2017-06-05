@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BoxDelete2
+namespace getToken
 {
     public class AppAuth
     {
