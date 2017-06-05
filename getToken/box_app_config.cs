@@ -8,7 +8,7 @@ namespace getToken
 {
     public class AppAuth
     {
-        public string publicKeyID { get; set; }
+        public string publicKeyID { get; set; } 
         public string privateKey { get; set; }
         public string passphrase { get; set; }
     }
